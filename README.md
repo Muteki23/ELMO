@@ -1,2 +1,0 @@
-# ELMO
-ELMO'S SECRET
